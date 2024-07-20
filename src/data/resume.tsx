@@ -117,7 +117,7 @@ export const DATA = {
     {
       school: "Universidade Positivo",
       href: "https://www.up.edu.br",
-      degree: "Master's Degree of Data Science and Big Data",
+      degree: "Graduate Degree of Data Science and Big Data",
       logoUrl: "/up.jpg",
       start: "2019",
       end: "2020",
@@ -125,7 +125,7 @@ export const DATA = {
     {
       school: "Federal University of Technology - Parana",
       href: "https://www.utfpr.edu.br/",
-      degree: "Master's Degree of Data Science",
+      degree: "Graduate Degree of Data Science",
       logoUrl: "/utfpr.jpg",
       start: "2021",
       end: "2022",
